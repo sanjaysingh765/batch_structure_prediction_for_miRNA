@@ -16,7 +16,8 @@ https://www.tbi.univie.ac.at/RNA/
 
 Running the script
 
-1. Change the name of file containing hairpin sequences for miRNA in mirna_structure_prediction.sh in line 5 and 16  and run the script as 
+1. Change the name of file containing hairpin sequences for miRNA in mirna_structure_prediction.sh 
+in line 5 and 16  and run the script as 
 
 bash mirna_structure_prediction.sh
 
